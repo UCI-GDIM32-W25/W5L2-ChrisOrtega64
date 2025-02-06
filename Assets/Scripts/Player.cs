@@ -6,6 +6,8 @@ public class Player : MonoBehaviour
 {
     [SerializeField] private List<Item> _inventory;
 
+    [SerializeField] private Item _itemEquipped;
+
     [SerializeField] private SpriteRenderer _spriteRenderer;
     [SerializeField] private float _speed = 1.0f;
 
