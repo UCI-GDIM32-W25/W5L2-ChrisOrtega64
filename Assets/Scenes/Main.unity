@@ -874,6 +874,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c44c77d8ffda84ad1a63f5971ad6a5de, type: 2}
   - {fileID: 11400000, guid: a39d1386fe6dc4b8f864181d22bd1e5a, type: 2}
   - {fileID: 11400000, guid: 7de132e12f9174636a604b2a7057be82, type: 2}
+  - {fileID: 11400000, guid: 7de132e12f9174636a604b2a7057be82, type: 2}
+  _itemEquipped: {fileID: 11400000, guid: f0063e27d6852f8458fde50bb4f723bd, type: 2}
   _spriteRenderer: {fileID: 4407100088411720655}
   _speed: 4
 --- !u!1660057539 &9223372036854775807
